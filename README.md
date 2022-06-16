@@ -33,7 +33,7 @@ It changes the:
 
 [Vinnie](https://github.com/VinnieTheFox) | Owner/Developer
 
-[Flexyus3000](https://discord.com/users/795736872109604864) | Cosmetic Maker
+[Flexyus3000](https://github.com/Flexyus) | Cosmetic Maker
 
 [WiserTixx](https://github.com/WiserTixx) | Project Fox Launcher
 
