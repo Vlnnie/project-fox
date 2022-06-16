@@ -37,4 +37,4 @@ It changes the:
 
 [WiserTixx](https://github.com/WiserTixx) | Project Fox Launcher
 
-[Zeyrox](https://discord.com/users/779174051092234261) | Project Fox Mobile
+[Zeyrox](https://github.com/Zeyrox1090) | Project Fox Mobile
