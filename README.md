@@ -31,10 +31,10 @@ It changes the:
 
 # Credits
 
-Vinnie | Owner/Developer
+[Vinnie](https://github.com/VinnieTheFox) | Owner/Developer
 
-Flexyus3000 | Cosmetic Maker
+[Flexyus3000](https://discord.com/users/795736872109604864) | Cosmetic Maker
 
-WiserTixx | Project Fox Launcher
+[WiserTixx](https://github.com/WiserTixx) | Project Fox Launcher
 
-Zeyrox | Project Fox Mobile
+[Zeyrox](https://discord.com/users/779174051092234261) | Project Fox Mobile
